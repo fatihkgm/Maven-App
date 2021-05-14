@@ -1,2 +1,2 @@
 # Maven-App
-Sample maven app for jenkins CI  test
+Sample maven app for jenkins CI  test,
